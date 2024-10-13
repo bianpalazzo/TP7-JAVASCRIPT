@@ -17,4 +17,4 @@ Ejecución:
 Para ejecutar este proyecto, sigue estos pasos: 
 1- Clona el repositorio: https://github.com/bianpalazzo/TP7-JAVASCRIPT.git 
 2- Abrir en Visual Studio Code. 
-4- Ejecutarlo.
+3- Ejecutarlo.
